@@ -16,4 +16,6 @@
 
 ## Screenshots
 
-![App Screenshot]()
+![App Screenshot](maininventaris1.png)
+
+![App Screenshot](maininventaris2.png)
